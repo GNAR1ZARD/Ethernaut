@@ -1,10 +1,14 @@
 /* 
-    Claim ownership of the contract:
+     Claim ownership of the contract below to complete this level:
     - contrubute to the contract (1 wei)
     - transact with the contract (1 wei)
 
     Reduce its balance to zero:
     - withdraw
+
+    Successful submission:
+    You know the basics of how ether goes in and out of contracts, including the usage of the fallback method.
+    You've also learnt about OpenZeppelin's Ownable contract, and how it can be used to restrict the usage of some methods to a privileged address.
 */
 
 
